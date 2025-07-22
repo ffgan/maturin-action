@@ -251,7 +251,7 @@ jobs:
               test-crate: 'maturin/test-crates/pyo3-mixed'
             },
             {
-              manylinux: 'manylinux_2_31',
+              manylinux: 'manylinux_2_39',
               target: 'riscv64gc-unknown-linux-gnu',
               test-crate: 'maturin/test-crates/pyo3-mixed'
             },
