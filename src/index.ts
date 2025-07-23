@@ -108,8 +108,8 @@ const DEFAULT_CONTAINERS: Record<
       '2_28': 'ghcr.io/rust-cross/manylinux_2_28-cross:s390x'
     },
     'riscv64gc-unknown-linux-gnu': {
-      auto: 'quay.io/pypa/manylinux_2_39_riscv64:2025.07.20-2',
-      '2_39': 'quay.io/pypa/manylinux_2_39_riscv64:2025.07.20-2'
+      auto: 'ghcr.io/rust-cross/manylinux_2_39-cross:riscv64',
+      '2_39': 'ghcr.io/rust-cross/manylinux_2_39-cross:riscv64'
     },
     'loongarch64-unknown-linux-gnu': {
       auto: 'ghcr.io/rust-cross/manylinux_2_36-cross:loongarch64',
@@ -189,8 +189,8 @@ const DEFAULT_CONTAINERS: Record<
       '2_28': 'ghcr.io/rust-cross/manylinux_2_28-cross:s390x'
     },
     'riscv64gc-unknown-linux-gnu': {
-      auto: 'quay.io/pypa/manylinux_2_39_riscv64:2025.07.20-2',
-      '2_39': 'quay.io/pypa/manylinux_2_39_riscv64:2025.07.20-2'
+      auto: 'ghcr.io/rust-cross/manylinux_2_39-cross:riscv64',
+      '2_39': 'ghcr.io/rust-cross/manylinux_2_39-cross:riscv64'
     },
     'loongarch64-unknown-linux-gnu': {
       auto: 'ghcr.io/rust-cross/manylinux_2_36-cross:loongarch64',
